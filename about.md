@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Welcome to my personal blog where I write about nerdy things.
 
-### More Information
+### About the author
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently the Technical Program Manager for Industrial Software Solutions located in Bothell, WA, but I work remotely from my home in South Dakota. I wear a lot of hats including IT Manager, Web Developer, Software Developer, Technical Support, and Technical Sales Consultant. I also use Oxford commas.
 
-### Contact me
+I'm engaged to a beautiful woman, and we have three wonderful children.
 
-[email@domain.com](mailto:email@domain.com)
+In my spare time I write programs in a variety of languages, and I'm especially keen on cryptography.
